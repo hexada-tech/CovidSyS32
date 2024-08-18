@@ -38,6 +38,7 @@ $ pkg update
 $ pkg upgrade
 $ pkg install python3
 $ pkg install python2
+$ pkg install git
 $ git clone https://github.com/hexada-tech/CovidSyS32.git
 $ cd CovidSyS32
 $ ls
@@ -51,6 +52,7 @@ $ sudo apt update
 $ sudo apt upgrade
 $ sudo apt install python3
 $ sudo apt install python2
+$ sudo apt install git
 $ git clone https://github.com/hexada-tech/CovidSyS32.git
 $ cd CovidSyS32
 $ ls
