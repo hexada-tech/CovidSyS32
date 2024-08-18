@@ -18,16 +18,19 @@
 - [Warning](#Warning)
 - [helping video](#Video-Tutorial)
 - [all our connections](#All-our-Bots-in-this-channel)
-- [download files](#How-to-Use-in-Termux)
+- [Termux Users](#How-to-Use-in-Termux)
+- [Kali Users](#How-To-Use-in-Linux-Like-Kali-or-other-Linux)
 - [commands](#Commands)
 - [tool overview](#Tool-options)
+- [Copyright Disclaimer](#Copyright-Disclaimer)
+- [All Our Links](#All-Our-Links)
 
 ## Video Tutorial 
 
 [![Video Tutorial](https://github.com/hexada-tech/inforamtion-hack-bot/blob/main/thumb.jpg)](https://github.com/hexada-tech/inforamtion-hack-bot/raw/main/small%20kk.mp4)
 
 
-## All our Bots in this channel[@hexada_tech_info](https://t.me/hexada_tech_info)
+## All our Bots in this channel [@hexada_tech_info](https://t.me/hexada_tech_info)
 
 
 ## How to Use in Termux
@@ -44,7 +47,29 @@ $ cd CovidSyS32
 $ ls
 $ python3 covidsys32termux.py
 ```
+## How To Use in Linux Like Kali or other Linux
+1. open **terminal** as **root** and
+1. type this commands
+```bash
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install python3
+$ sudo apt install python2
+$ git clone https://github.com/hexada-tech/CovidSyS32.git
+$ cd CovidSyS32
+$ ls
+$ python3 covidsys32.py
+```
+
 ## Tool options
 1. **then you should see tool options pick anything you want**
-1. this all tool options
-
+1. **this all tool options**
+1. `Viruses menu`
+1. `Chat Feature`
+1. `Windows Viruses`
+1. `Android Viruses`
+1. `Linux Viruses`
+## All Our Links 
+1. [Vist Our World](https://t.me/hexada_tech_info)
+## Copyright Disclaimer
+**Please Don't Use this Tool Without Giving Credits**
