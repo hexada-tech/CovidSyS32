@@ -1,6 +1,6 @@
 <p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
 
-<h2 align='center'>Damage Any Device Make people's Cry.</h2>
+<h2 align='center'>Damage Any Device Make people's Cry For Help</h2>
 
 <div align="center">
 
@@ -18,19 +18,13 @@
 
 
 ### How to Use in Termux
-1. install `Termux` From Here [Download Termux](https://f-droid.org/en/packages/com.termux/)
-1. open `termux` and follow this Steps
-<!-- HTML and JavaScript in README.md -->
-<button onclick="Copy and past this command ('pkg update')">Click to Copy</button>
-
-<script>
-  function copyToClipboard(text) {
-    const tempInput = document.createElement('input');
-    tempInput.value = text;
-    document.body.appendChild(tempInput);
-    tempInput.select();
-    document.execCommand('copy');
-    document.body.removeChild(tempInput);
-    alert('Copied to clipboard: ' + text);
-  }
-</script>
+1. install **Termux** From Here [Download Termux](https://f-droid.org/en/packages/com.termux/)
+1. open **termux** and follow this Steps
+```bash
+$ pkg update
+$ pkg upgrade
+$ pkg install python3
+$ pkg install python2
+$ git clone https://github.com/hexada-tech/CovidSyS32.git
+```
+1. and 
