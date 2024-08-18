@@ -1,4 +1,4 @@
-<p align='center'><img style="height:100px;width:100px" src="bg.png" ></p>
+<p align='center'><img style="height:1920px;width:1080px" src="bg.png" ></p>
 
 <h2 align='center'>Damage Any Device Make people's Cry For Help</h2>
 
