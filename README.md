@@ -1,6 +1,6 @@
 <p align='center'><img style="height:300px;width:300px" src="bg.png" ></p>
 
-<h2 align='center'>Damage Any Device Make people's Cry For Help</h2>
+<h2 align="center" style="color: red;">Damage Any Device Make People's Cry For Help</h2>
 
 <div align="center">
 
@@ -28,10 +28,6 @@
 ## Video Tutorial 
 
 [![Video Tutorial](https://github.com/hexada-tech/inforamtion-hack-bot/blob/main/thumb.jpg)](https://github.com/hexada-tech/inforamtion-hack-bot/raw/main/small%20kk.mp4)
-
-
-## All our Bots in this channel [@hexada_tech_info](https://t.me/hexada_tech_info)
-
 
 ## How to Use in Termux
 1. install **Termux** From Here [Download Termux](https://f-droid.org/en/packages/com.termux/)
