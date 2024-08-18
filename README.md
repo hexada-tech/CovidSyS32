@@ -7,7 +7,7 @@
 
 </div>
 
-## tool pictures
+## Screenshot
 
 <p align='center'><img style="height:300px;width:300px" src="background.jpg" ></p>
 
