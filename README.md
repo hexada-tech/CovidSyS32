@@ -16,11 +16,11 @@
 ## Table of Contents
 
 - [Warning](#Warning)
-- [helping video](#Video Tutorial)
-- [all our connections](#All our Bots in this channel)
-- [download files](#How to Use in Termux)
+- [helping video](#VideoTutorial)
+- [all our connections](#AllourBotsinthischannel)
+- [download files](#HowtoUseinTermux)
 - [commands](#Commands)
-- [tool overview](#Tool options)
+- [tool overview](#Tooloptions)
 
 ## Video Tutorial 
 
