@@ -1,6 +1,6 @@
 <p align='center'><img style="height:300px;width:300px" src="bg.png" ></p>
 
-<h2 align="center" style="color: red;">Damage Any Device Make People's Cry For Help</h2>
+<h2 align='center'>Damage Any Device Make people's Cry For Help</h2>
 
 <div align="center">
 
