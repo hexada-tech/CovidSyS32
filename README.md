@@ -31,7 +31,7 @@
 
 ## Video Tutorial 
 
-[![Video Tutorial](https://github.com/hexada-tech/CovidSyS32/blob/main/scr.png)](https://sharedby.blomp.com/t2uTvo)
+[![Video Tutorial](https://github.com/hexada-tech/CovidSyS32/blob/main/mainbg.jpg)](https://sharedby.blomp.com/t2uTvo)
 
 ## How to Use in Termux
 1. install **Termux** From Here [Download Termux](https://f-droid.org/en/packages/com.termux/)
