@@ -20,6 +20,7 @@
 ## Table of Contents
 
 - [Warning](#Warning)
+- [helping video](#Video-Tutorial)
 - [all our connections](#All-our-Bots-in-this-channel)
 - [Termux Users](#How-to-Use-in-Termux)
 - [Kali Users](#How-To-Use-in-Linux-Like-Kali-or-other-Linux)
@@ -28,6 +29,9 @@
 - [Copyright Disclaimer](#Copyright-Disclaimer)
 - [All Our Links](#All-Our-Links)
 
+## Video Tutorial 
+
+[![Video Tutorial](https://github.com/hexada-tech/CovidSyS32/blob/main/scr.png)](https://sharedby.blomp.com/t2uTvo)
 
 ## How to Use in Termux
 1. install **Termux** From Here [Download Termux](https://f-droid.org/en/packages/com.termux/)
